@@ -1,13 +1,11 @@
 package com.in28minutes.unittesting.unittesting.business;
 
 import com.in28minutes.unittesting.unittesting.data.SomeDataService;
-import org.junit.Before;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.mockito.InjectMocks;
 import org.mockito.Mock;
 import org.mockito.junit.MockitoJUnitRunner;
-
 import static org.junit.Assert.*;
 import static org.mockito.Mockito.*;
 
